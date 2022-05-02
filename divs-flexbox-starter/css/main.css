@@ -121,6 +121,7 @@ body {
 
 p span {
     font-family: 'Lora', sans-serif;
+    color: #2FDCF5;
 }
 
 header, footer {
@@ -131,6 +132,7 @@ header, footer {
 
 header h1 {
     font-family: 'Lora', sans-serif;
+    color: #EE3DB7;
     font-size: 3em;
 }
 
